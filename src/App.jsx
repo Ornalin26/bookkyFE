@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import axios from "axios";
 
-const uri = "https://literate-yodel-5gvx9gjvrrgvf7rjr-5001.app.github.dev/";
+const uri = "https://bug-free-orbit-wrvg4rpv5r64cvjxv-5001.app.github.dev/";
 
 const checkPassword = async () => {
   const password = prompt("Please enter your password:");
